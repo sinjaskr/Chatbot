@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Rasa models
+*.tar.gz
+
+# Angular build files
+/dist/
+
+# Logs
+*.log
+
+# Environment files
+.env
